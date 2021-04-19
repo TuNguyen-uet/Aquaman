@@ -1,0 +1,43 @@
+kbk,không biết không
+seal,niêm phong
+k,không
+đt,điện thoại
+hsd,hạn sử dụng
+p,phút
+nv,nhân viên
+sp,sản phẩm
+sd,sử dụng
+mn,mọi người
+nx,nhận xét
+ko,không
+sz,kích thước
+size,kích thước
+ok,oke
+tp,thành phố
+tphcm,thành phố hồ chí minh
+t,tuổi
++,cộng
+-,trừ
+dc,được
+đc,được
+wa,quá
+thik,thích
+=>,nên
+z,vậy
+e,em
+j,gì
+cx,cũng
+cmt,bình luận
+nsx,ngày sản xuất
+hsd,hạn sử dụng
+trc,trước
+vs,với
+lun,luôn
+mk,mình
+km,khuyến mại
+plz,xin
+pl,xin
+pls,xin
+b,bạn
+fom,form
+dỏm,tệ
